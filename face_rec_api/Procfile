@@ -1,0 +1,1 @@
+web: gunicorn --chdir face_rec_api flask_server:app
